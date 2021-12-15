@@ -1,0 +1,16 @@
+{
+  "name": "acme-ioet",
+  "version": "1.0.0",
+  "description": "Company ACME - ioet challenge #1",
+  "main": "index.js",
+  "repository": "https://github.com/jazael/acme-ioet.git",
+  "author": "Miguel Faubla <fanthonymiguel@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
