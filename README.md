@@ -1,7 +1,7 @@
 ## Exercise description
 The company ACME offers their employees the flexibility to work the hours they want. They will pay for the hours worked based on the day of the week and time of day, according to the following table:
 
-Monday - Friday
+## Monday - Friday
 
   * 00:01 - 09:00 25 USD
 
@@ -9,7 +9,7 @@ Monday - Friday
 
   * 18:01 - 00:00 20 USD
 
-  * Saturday and Sunday
+## Saturday and Sunday
 
   * 00:01 - 09:00 30 USD
 
